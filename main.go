@@ -1,1 +1,3 @@
+package main
+
 funk main{}
